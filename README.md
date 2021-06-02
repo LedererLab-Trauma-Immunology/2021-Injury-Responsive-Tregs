@@ -3,4 +3,4 @@
 See publication [here](https://not.published.yet)
 
 #Contact
-* [James Lederer](JLEDERER@BWH.HARVARD.EDU)
+* [James Lederer](mailto:JLEDERER@BWH.HARVARD.EDU)
