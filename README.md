@@ -2,5 +2,8 @@
 
 See publication [here](https://not.published.yet)
 
+## Data
+Bulk RNAseq, scRNAseq, and scTCR data can be accessed in GEO under the reference series number GSE174790.
+
 ## Contact
 * [James Lederer](mailto:JLEDERER@BWH.HARVARD.EDU)
