@@ -8,3 +8,6 @@ Bulk RNAseq, scRNAseq, and scTCR data can be accessed in GEO under the reference
 ## Contact
 * [James Lederer](mailto:JLEDERER@BWH.HARVARD.EDU)
 * [Brandon Hancock](mailto:bhanco@gmail.com)
+
+## Figure example
+![Fig](imgs/Treg_scRNAseq_screenshot.png)
